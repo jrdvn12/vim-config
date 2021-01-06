@@ -1,4 +1,4 @@
-cd $HOME\Desktop\vimws\rand
+cd $HOME\Desktop\vimws\practice
 set gfn=Consolas:h16
 set ai
 set si
