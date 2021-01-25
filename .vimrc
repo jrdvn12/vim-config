@@ -1,5 +1,5 @@
 cd $HOME\Desktop\vimws\practice
-set gfn=Consolas:h16
+set gfn=Consolas:h14
 set ai
 set si
 set ts=4
